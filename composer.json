@@ -1,0 +1,22 @@
+{
+    "name": "ltltltt/citizenid",
+    "type": "extension",
+    "description": "中国居民身份证号码信息验证",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "ltltltt",
+            "email": "lt1753@outlook.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "4.6.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "ltltltt\\citizenid\\": ""
+        }
+    }
+}
